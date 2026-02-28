@@ -1,0 +1,38 @@
+{
+  "name": "girlscouts-cookie-payment",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "typescript": "^5.0.0",
+    "tailwindcss": "^3.3.0",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.0",
+    "pg": "^8.11.0",
+    "@types/pg": "^8.10.0",
+    "stripe": "^14.0.0",
+    "jsonwebtoken": "^9.0.0",
+    "@types/jsonwebtoken": "^9.0.0",
+    "bcryptjs": "^2.4.0",
+    "@types/bcryptjs": "^2.4.0",
+    "qrcode": "^1.5.0",
+    "@types/qrcode": "^1.5.0",
+    "html5-qrcode": "^2.3.0",
+    "micro": "^10.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "eslint-config-next": "^14.0.0"
+  }
+}
